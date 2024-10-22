@@ -93,6 +93,7 @@ Once the bot is running, it will send updates to the specified Discord channel e
 - Real-time and all-time network traffic
 
 ---
+![Preview](https://github.com/user-attachments/assets/21dbb0f0-c9c7-41e4-bcdc-c87eb0e73feb)
 
 ## 🛡️ License
 
