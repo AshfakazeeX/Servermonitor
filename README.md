@@ -54,7 +54,7 @@ server-monitor/
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/server-monitor.git
+   git clone https://github.com/ChalanaGimhanaX/Server-Monitor-Via-Discord.git
    cd server-monitor
    ```
 
