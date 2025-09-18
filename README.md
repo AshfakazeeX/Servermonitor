@@ -1,4 +1,4 @@
-# 🔥 Server Monitor by Chalana 🚀
+# 🔥 Server Monitor  🚀
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
 [![Paramiko](https://img.shields.io/badge/Library-Paramiko-green.svg)](https://www.paramiko.org/)
@@ -54,7 +54,7 @@ server-monitor/
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/ChalanaGimhanaX/Server-Monitor-Via-Discord.git
+   git clone https://github.com/AshfakazeeX/Servermonitor.git
    cd server-monitor
    ```
 
